@@ -1,21 +1,3 @@
-
-holladortun
-/
-alx-low_level_programming
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-alx-low_level_programming/0x06-pointers_arrays_strings/main.h
-@holladortun
-holladortun tasks commit
- 1 contributor
-13 lines (13 sloc)  440 Bytes
 char *_strcat(char *dest, char *src);
 char *_strncat(char *dest, char *src, int n);
 char *_strncpy(char *dest, char *src, int n);
